@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NUN",
+    "U*U",
+    "NUN"
+  ],
+  "key": {
+    "N": { "item": "minecraft:nether_star" },
+    "U": { "item": "bingxing:ultimate_parallel_hatch" },
+    "*": { "item": "minecraft:dragon_egg" }
+  },
+  "result": {
+    "id": "bingxing:creative_parallel_hatch",
+    "count": 1
+  }
+}

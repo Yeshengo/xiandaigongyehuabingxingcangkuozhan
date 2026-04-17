@@ -1,0 +1,7 @@
+{
+  "casing": "ev",
+  "default_overlays": {
+    "side": "bingxing:block/machines/parallel_hatch/overlay_front"
+  },
+  "loader": "modern_industrialization:machine"
+}

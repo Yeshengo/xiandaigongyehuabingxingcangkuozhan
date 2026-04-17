@@ -1,0 +1,24 @@
+{
+
+  "block.bingxing.basic_parallel_hatch": "基础并行仓",
+  "block.bingxing.advanced_parallel_hatch": "高级并行仓",
+  "block.bingxing.elite_parallel_hatch": "精英并行仓",
+  "block.bingxing.ultimate_parallel_hatch": "终极并行仓",
+  "block.bingxing.creative_parallel_hatch": "创造并行仓",
+
+  "itemGroup.bingxing": "并行模组",
+
+  "gui.bingxing.parallel_level": "并行等级：",
+
+  "subtitles.bingxing.parallel_hatch_work": "并行仓：工作",
+
+  "block.duocaoliuti.example_block": "示例方块",
+  "item.duocaoliuti.example_item": "示例物品",
+  "duocaoliuti.configuration.title": "多槽流体舱室 配置",
+  "duocaoliuti.configuration.section.duocaoliuti.common.toml": "多槽流体舱室 通用配置",
+  "duocaoliuti.configuration.section.duocaoliuti.common.toml.title": "多槽流体舱室 通用配置",
+  "duocaoliuti.configuration.items": "物品列表",
+  "duocaoliuti.configuration.logDirtBlock": "记录泥土方块",
+  "duocaoliuti.configuration.magicNumberIntroduction": "魔法数字描述",
+  "duocaoliuti.configuration.magicNumber": "魔法数字"
+}

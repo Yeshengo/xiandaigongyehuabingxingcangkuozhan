@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GPG",
+    "PCP",
+    "GPG"
+  ],
+  "key": {
+    "P": { "item": "bingxing:basic_parallel_hatch" },
+    "G": { "item": "modern_industrialization:gold_gear" },
+    "C": { "item": "modern_industrialization:steel_machine_casing" }
+  },
+  "result": {
+    "id": "bingxing:advanced_parallel_hatch",
+    "count": 1
+  }
+}

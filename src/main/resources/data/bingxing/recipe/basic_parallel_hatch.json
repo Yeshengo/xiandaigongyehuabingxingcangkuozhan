@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RGR",
+    "GCG",
+    "RGR"
+  ],
+  "key": {
+    "R": { "item": "minecraft:redstone" },
+    "G": { "item": "modern_industrialization:iron_gear" },
+    "C": { "item": "modern_industrialization:bronze_machine_casing" }
+  },
+  "result": {
+    "id": "bingxing:basic_parallel_hatch",
+    "count": 1
+  }
+}

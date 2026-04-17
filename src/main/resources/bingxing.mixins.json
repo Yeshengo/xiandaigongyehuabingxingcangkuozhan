@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.yeshengo.bingxing.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "bingxing.refmap.json",
+  "mixins": [
+    "CrafterComponentMixin",
+    "ShapeMatcherMixin"
+  ],
+  "client": [],
+  "server": []
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GAG",
+    "ACA",
+    "GAG"
+  ],
+  "key": {
+    "A": { "item": "bingxing:advanced_parallel_hatch" },
+    "G": { "item": "modern_industrialization:diamond_gear" },
+    "C": { "item": "modern_industrialization:titanium_machine_casing" }
+  },
+  "result": {
+    "id": "bingxing:elite_parallel_hatch",
+    "count": 1
+  }
+}
