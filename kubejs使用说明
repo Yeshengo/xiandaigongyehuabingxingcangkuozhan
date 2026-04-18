@@ -1,0 +1,35 @@
+添加新的并行仓等级
+编辑 .minecraft/config/bingxing/extra_hatches.json 文件，在 hatches 数组中添加新条目。
+示例：
+{
+  "hatches": [
+    {
+      "id": "simple_parallel_hatch",
+      "max_parallel": 2,
+      "display_name": "Simple Parallel Hatch",
+      "casing": "modern_industrialization:iron",
+      "texture_folder": "simple"
+    },
+    {
+      "id": "insane_parallel_hatch",
+      "max_parallel": 9999,
+      "display_name": "Insane Parallel Hatch",
+      "casing": "modern_industrialization:quantum",
+      "texture_folder": "insane"
+    }
+  ]
+}
+配置外壳映射（让并行仓跟随自定义控制器）
+编辑 .minecraft/config/bingxing/casing_overrides.json 文件：
+{
+  "overrides": [
+    {
+      "controller_id": "modern_industrialization:ksrl",
+      "casing_id": "modern_industrialization:chiseled_stone_bricks_casing"
+    },
+    {
+      "controller_id": "modern_industrialization:zhuanhuan_qi",
+      "casing_id": "modern_industrialization:smooth_stone_casing"
+    }
+  ]
+}
